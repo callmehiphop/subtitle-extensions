@@ -1,0 +1,31 @@
+{
+  "name": "subtitle-extensions",
+  "version": "1.0.0",
+  "description": "List of subtitle extensions",
+  "main": "subtitle-extensions.json",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callmehiphop/subtitle-extensions.git"
+  },
+  "keywords": [
+    "subtitle",
+    "subtitles",
+    "ext",
+    "extension",
+    "extensions",
+    "srt",
+    "vtt"
+  ],
+  "author": "Dave Gramlich <callmehiphop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callmehiphop/subtitle-extensions/issues"
+  },
+  "homepage": "https://github.com/callmehiphop/subtitle-extensions#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
